@@ -2,7 +2,6 @@ $stable: #E38700;
 $link-color: $stable;
 $ionicons-font-path: "../lib/ionic/fonts" !default;
 @import "../www/lib/ionic/scss";
-
 .bar.bar-stable .title {
 	color: #fff;
 }
@@ -29,4 +28,7 @@ body.platform-android {
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,.tab-item,input,button,select,textarea {
 	font-family: inherit;
 }
+
+
+		
 

@@ -16,5 +16,8 @@
     "ionic-plugin-keyboard",
     "cordova-plugin-splashscreen"
   ],
-  "cordovaPlatforms": []
+  "cordovaPlatforms": [],
+  "dependencies": {
+    "angular-ui-calendar": "^1.0.2"
+  }
 }
